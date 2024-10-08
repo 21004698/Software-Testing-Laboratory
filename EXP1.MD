@@ -1,6 +1,7 @@
+
 # Ex.No: 1 Write programs in Python Language to demonstrate the working of followingconstructs with possible test cases: a) do…while b) while…do c) if …else d) switch e) for 
 
-### DATE:                                                                        
+### DATE:                                                                      
 ### REGISTER NUMBER : 212221040031
 
 ### AIM:  
@@ -239,5 +240,3 @@ Enter a string:
 
 ### Result:
 Thus, the python program to demonstrate the working of given constructs is implemented and the output is verified successfully.
-
-
